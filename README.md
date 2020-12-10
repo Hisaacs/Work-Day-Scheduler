@@ -11,7 +11,7 @@ The Work Day Scheduler calendar presents a 9AM to 5PM day. The current date is b
 
 Deployment:
 
-GitHub:
+GitHub: https://github.com/Hisaacs/Work-Day-Scheduler
 
 Technologies used
 1.	[Moment.js](https://momentjs.com/) 
